@@ -1,4 +1,4 @@
-Project based on CodeAcademy C++ - Functions Challenge
+CodeAcademy C++ - Functions Challenge Project
 
 Prerequisite:
 1. Download C++ on your device.
